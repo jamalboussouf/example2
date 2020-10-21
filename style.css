@@ -1,0 +1,96 @@
+/** {
+	background-color: #333676;
+}
+*/
+/* nave bare */
+
+.bg-light {
+	background-color: #333676!important;
+}
+
+.my-sm-0:hover {
+	background-color: #0E553E;
+}
+
+.navbar-light .navbar-brand {
+	color: #9D72A9;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+	color: #9D72A9;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #7D498C;
+}
+
+.nav-link .disabled .nav-item {
+	color: #71AA97;
+}
+
+/* Carousel */
+
+.carousel {
+	margin-top: 0.2rem;
+}
+
+
+.jumbotron {
+	text-align: center;
+	background-color: #7F81B1;
+	color: #2C0238;
+}
+
+
+.btn-primary {
+	background-color: #2C0238; 
+	border-color: #2C0238;
+}
+
+.btn-primary:hover {
+	background-color: #451054;
+	border-color: #2C0238;
+}
+
+/* card */
+
+
+.bj-ro {
+	background: url(https://static.pexels.com/photos/50988/ape-berber-monkeys-mammal-affchen-50988.jpeg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 35rem;
+  color: #080B3B;
+  margin-bottom: 0px;
+}
+
+/* footer */
+
+footer{
+	padding-left: 5rem;
+	padding-top: 3rem;
+	margin-top: 0.2rem;
+	border:solid #0A0A15 4px;
+	background-color: #0A0A15;
+	height: 18rem;
+	color: #797982;
+}
+
+.linkdico {
+	text-decoration: none;
+	color: #797982;
+}
+.linkdico:hover {
+	color: #797982;
+	text-decoration: none;
+}
+
+.cos {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.hello:hover {
+	cursor: none;
+}
